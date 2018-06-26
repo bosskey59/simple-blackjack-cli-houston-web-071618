@@ -58,7 +58,7 @@ def invalid_command
   puts "Please enter a valid command"
   prompt_user
 end
-runner
+
 #####################################################
 # get every test to pass before coding runner below #
 #####################################################
@@ -72,4 +72,4 @@ def runner
   end
   # display_card_total(total)
 end
-    
+runner    
